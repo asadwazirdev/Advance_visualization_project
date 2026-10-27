@@ -1,0 +1,5 @@
+NYC.csv
+train.csv
+nyc_taxi_processed.csv
+.ipynb_checkpoints/
+__pycache__/
